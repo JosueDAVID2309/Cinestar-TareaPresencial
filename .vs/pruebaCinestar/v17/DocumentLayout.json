@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alumno\\source\\repos\\pruebaCinestar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{594ECAAB-1D3D-4E3C-9529-7909D81C808A}|pruebaCinestar.csproj|c:\\users\\alumno\\source\\repos\\pruebacinestar\\controllers\\cinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594ECAAB-1D3D-4E3C-9529-7909D81C808A}|pruebaCinestar.csproj|solutionrelative:controllers\\cinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594ECAAB-1D3D-4E3C-9529-7909D81C808A}|pruebaCinestar.csproj|c:\\users\\alumno\\source\\repos\\pruebacinestar\\controllers\\dao\\daocine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594ECAAB-1D3D-4E3C-9529-7909D81C808A}|pruebaCinestar.csproj|solutionrelative:controllers\\dao\\daocine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594ECAAB-1D3D-4E3C-9529-7909D81C808A}|pruebaCinestar.csproj|c:\\users\\alumno\\source\\repos\\pruebacinestar\\controllers\\bd\\clsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594ECAAB-1D3D-4E3C-9529-7909D81C808A}|pruebaCinestar.csproj|solutionrelative:controllers\\bd\\clsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594ECAAB-1D3D-4E3C-9529-7909D81C808A}|pruebaCinestar.csproj|c:\\users\\alumno\\source\\repos\\pruebacinestar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594ECAAB-1D3D-4E3C-9529-7909D81C808A}|pruebaCinestar.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594ECAAB-1D3D-4E3C-9529-7909D81C808A}|pruebaCinestar.csproj|c:\\users\\alumno\\source\\repos\\pruebacinestar\\views\\cine\\getcines.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{594ECAAB-1D3D-4E3C-9529-7909D81C808A}|pruebaCinestar.csproj|solutionrelative:views\\cine\\getcines.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594ECAAB-1D3D-4E3C-9529-7909D81C808A}|pruebaCinestar.csproj|c:\\users\\alumno\\source\\repos\\pruebacinestar\\views\\cine\\getcine.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{594ECAAB-1D3D-4E3C-9529-7909D81C808A}|pruebaCinestar.csproj|solutionrelative:views\\cine\\getcine.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594ECAAB-1D3D-4E3C-9529-7909D81C808A}|pruebaCinestar.csproj|c:\\users\\alumno\\source\\repos\\pruebacinestar\\views\\pelicula\\getpeliculas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{594ECAAB-1D3D-4E3C-9529-7909D81C808A}|pruebaCinestar.csproj|solutionrelative:views\\pelicula\\getpeliculas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594ECAAB-1D3D-4E3C-9529-7909D81C808A}|pruebaCinestar.csproj|c:\\users\\alumno\\source\\repos\\pruebacinestar\\views\\pelicula\\getpelicula.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{594ECAAB-1D3D-4E3C-9529-7909D81C808A}|pruebaCinestar.csproj|solutionrelative:views\\pelicula\\getpelicula.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594ECAAB-1D3D-4E3C-9529-7909D81C808A}|pruebaCinestar.csproj|c:\\users\\alumno\\source\\repos\\pruebacinestar\\models\\cine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594ECAAB-1D3D-4E3C-9529-7909D81C808A}|pruebaCinestar.csproj|solutionrelative:models\\cine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "getPelicula.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\pruebaCinestar\\Views\\Pelicula\\getPelicula.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pelicula\\getPelicula.cshtml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\pruebaCinestar\\Views\\Pelicula\\getPelicula.cshtml",
+              "RelativeToolTip": "Views\\Pelicula\\getPelicula.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T16:04:00.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "getPeliculas.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\pruebaCinestar\\Views\\Pelicula\\getPeliculas.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pelicula\\getPeliculas.cshtml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\pruebaCinestar\\Views\\Pelicula\\getPeliculas.cshtml",
+              "RelativeToolTip": "Views\\Pelicula\\getPeliculas.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T16:03:32.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "getCine.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\pruebaCinestar\\Views\\Cine\\getCine.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cine\\getCine.cshtml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\pruebaCinestar\\Views\\Cine\\getCine.cshtml",
+              "RelativeToolTip": "Views\\Cine\\getCine.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T15:12:26.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "getCines.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\pruebaCinestar\\Views\\Cine\\getCines.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cine\\getCines.cshtml",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\pruebaCinestar\\Views\\Cine\\getCines.cshtml",
+              "RelativeToolTip": "Views\\Cine\\getCines.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T14:44:16.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cine.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\pruebaCinestar\\Models\\Cine.cs",
+              "RelativeDocumentMoniker": "Models\\Cine.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\pruebaCinestar\\Models\\Cine.cs",
+              "RelativeToolTip": "Models\\Cine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T14:23:35.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsdb.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\pruebaCinestar\\Controllers\\bd\\clsdb.cs",
+              "RelativeDocumentMoniker": "Controllers\\bd\\clsdb.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\pruebaCinestar\\Controllers\\bd\\clsdb.cs",
+              "RelativeToolTip": "Controllers\\bd\\clsdb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T14:23:24.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "daoCine.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\pruebaCinestar\\Controllers\\dao\\daoCine.cs",
+              "RelativeDocumentMoniker": "Controllers\\dao\\daoCine.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\pruebaCinestar\\Controllers\\dao\\daoCine.cs",
+              "RelativeToolTip": "Controllers\\dao\\daoCine.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T14:22:52.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\pruebaCinestar\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\pruebaCinestar\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T14:17:44.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CineController.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\pruebaCinestar\\Controllers\\CineController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CineController.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\pruebaCinestar\\Controllers\\CineController.cs",
+              "RelativeToolTip": "Controllers\\CineController.cs",
+              "ViewState": "AgIAAAAAAAAAAACRCQzrvwcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T14:11:07.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
